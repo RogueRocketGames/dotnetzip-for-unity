@@ -864,7 +864,7 @@ namespace Ionic
         }
 
 
-        private enum ParseState
+        public enum ParseState
         {
             Start,
             OpenParen,
